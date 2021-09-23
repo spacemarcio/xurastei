@@ -1,0 +1,1 @@
+## Olá, turista! Conheço dois novos amigos na sua busca por um muito-massa-e-baratinho lugar para morar: *dados e AI*
