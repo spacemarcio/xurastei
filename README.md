@@ -1,9 +1,13 @@
-## Xurastei te ajuda a encontrar um lugar do seu jeitinho par alugar!
+## Find a place to buy or rent can be hard
 
-Na saga de encontrar um lugarzinho muito a sua cara, mergulhar no montão de anúncios de imóveis que existem na Internet para alugar pode te machucar. Por isso vamos deixar os computadores com o trabalho sujo de encontrar as melhores opções pra gente se dedicar a ficar em dúvida entre aquelas 2 ou 3 opções incríveis.
+There are too many sources to look for properties. Xurastei ou Xuraigou help people make segmented searches to find ads near their personal routines.
 
-## Dados e AI na construção de perfis de localização
+## How Xurastei ou Xuraigou works?
 
-![](https://github.com/spacemarcio/xurastei/blob/5c6861f969db61b06daea631455b2eff31cbbb5b/readme-images/data_ai.png)
+It takes public data from neighborhoods to identify clusters of places. Some neibourhoods can be distant, but have same characteristics, like good green areas and many markets, for example. Then, collects ads from principal sources from Recife' properties and identifies which ads belong to which kind of place.
+
+## Project architecture (for now)
+
+![](https://github.com/spacemarcio/xurastei/blob/71374c03f3f1b857561a44f7cb94ed75e839bd3d/readme-images/xurastei-architecture.png)
 
 
