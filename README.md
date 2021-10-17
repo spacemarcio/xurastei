@@ -8,7 +8,7 @@ It takes public data from neighborhoods to identify clusters of places. Some nei
 
 ## Project architecture (for now)
 
-![](https://github.com/spacemarcio/xurastei/blob/65046bdb7fdef133ea2804497df903f47584fd2c/readme-images/xurastei-architecture.png)
+![](https://github.com/spacemarcio/xurastei/blob/be7a35f2b724da4f80877f941f5af92ea05eedae/readme-images/xurastei-architecture.png)
 
 ## CDC strategy
 
