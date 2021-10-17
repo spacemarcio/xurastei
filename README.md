@@ -8,6 +8,10 @@ It takes public data from neighborhoods to identify clusters of places. Some nei
 
 ## Project architecture (for now)
 
-![](https://github.com/spacemarcio/xurastei/blob/71374c03f3f1b857561a44f7cb94ed75e839bd3d/readme-images/xurastei-architecture.png)
+![](https://github.com/spacemarcio/xurastei/blob/65046bdb7fdef133ea2804497df903f47584fd2c/readme-images/xurastei-architecture.png)
 
+## CDC strategy
 
+We cannot scrapping all data every the time, it takes to much resources. So we need a CDC (Change Data Capture) strategy to maintain Xurastei ou Xuraigou fresh to date.
+
+![](https://github.com/spacemarcio/xurastei/blob/65046bdb7fdef133ea2804497df903f47584fd2c/readme-images/CDC_strategy.png)
