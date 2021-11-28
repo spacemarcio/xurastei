@@ -1,2 +1,4 @@
-raw_data
-scripts
+credentials
+airflow-variables.json
+infrastructure/variables.tf
+__pycache__

@@ -1,3 +1,5 @@
+create extension postgis;
+
 alter table area_risco add column coord geometry(Point, 4326);
 
 update area_risco set coord = ST_SetSRID(ST_MakePoint(LONG, LAT),4326);
