@@ -8,4 +8,6 @@ It takes public data from neighborhoods to identify clusters of places. Some nei
 
 ## Project presentation
 
-https://www.canva.com/design/DAErzzYvh_M/QsxB75L-e490gy0vCPS5jw/view?utm_content=DAErzzYvh_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+There is a nice presentation in Canva [here](https://www.canva.com/design/DAErzzYvh_M/QsxB75L-e490gy0vCPS5jw/view?utm_content=DAErzzYvh_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+## Architecture
