@@ -12,7 +12,7 @@ You can find very nice slides [here](https://www.canva.com/design/DAErzzYvh_M/Qs
 
 ## Technologies
 
-In this project we make web scraping using (Selenium and Docker Containers), orchestration with Airflow, feature engineering with geospatial data using PostGIS (an extension to PostgreSQL), clustering data from RDS using K-Means and Infrastructure as Code. Yeah! A lot of cool things.
+In this project we make web scraping using (Selenium and Docker Containers), orchestration with Airflow, feature engineering with geospatial data using PostGIS (an extension to PostgreSQL), clustering data from RDS using K-Means and Infrastructure as Code. Everything in AWS cloud.
 
 ## Architecture
 
