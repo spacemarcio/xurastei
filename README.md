@@ -16,4 +16,4 @@ In this project we make web scraping using (Selenium and Docker Containers), orc
 
 ## Architecture
 
-<img src="https://github.com/spacemarcio/xurastei/blob/79d7eaf1d2dd4d4ece3623bb31ea9bc182f05170/readme-images/xurastei-architecture.png" alt="drawing" style="width:350px;"/>
+<img src="https://github.com/spacemarcio/xurastei/blob/79d7eaf1d2dd4d4ece3623bb31ea9bc182f05170/readme-images/xurastei-architecture.png" alt="drawing" style="width:500px;"/>
