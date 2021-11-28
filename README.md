@@ -11,3 +11,5 @@ It takes public data from neighborhoods to identify clusters of places. Some nei
 There is a nice presentation in Canva [here](https://www.canva.com/design/DAErzzYvh_M/QsxB75L-e490gy0vCPS5jw/view?utm_content=DAErzzYvh_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## Architecture
+
+<img src="https://github.com/spacemarcio/xurastei/blob/be7f97700fed4019896547fa64e4914bd8e83e10/readme-images/xurastei-architecture.png" alt="drawing" style="width:750px;"/>
