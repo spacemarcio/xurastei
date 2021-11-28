@@ -9,3 +9,10 @@ It takes public data from neighborhoods to identify clusters of places. Some nei
 ## Project presentation
 
 You can find very nice slides [here](https://www.canva.com/design/DAErzzYvh_M/QsxB75L-e490gy0vCPS5jw/view?utm_content=DAErzzYvh_M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+
+## Technologies
+
+In this project we make web scraping using (Selenium and Docker Containers), orchestration with Airflow, feature engineering with geospatial data using PostGIS (an extension to PostgreSQL), clustering data from RDS using K-Means and Infrastructure as Code. Yeah! A lot of cool things.
+
+## Architecture
+
