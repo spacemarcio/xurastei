@@ -1,4 +1,4 @@
 credentials
 airflow-variables.json
-infrastructure/variables.tf
+variables.tf
 __pycache__
