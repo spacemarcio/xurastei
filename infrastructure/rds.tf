@@ -7,7 +7,7 @@ resource "aws_db_instance" "rds" {
   instance_class            = "db.t3.micro"
   username                  = var.username
   password                  = var.password
-  port                      = 5432
+  port                      = var.port
   skip_final_snapshot       = true
   publicly_accessible       = true
 }
